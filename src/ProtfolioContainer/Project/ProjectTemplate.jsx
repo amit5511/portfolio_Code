@@ -13,9 +13,9 @@ const ProjectTemplate = ({ item }) => {
           <img style={{ width: '90%', marginTop: '20px' }} src={item.url} alt="null" />
         </a>
         <div className='projectlink'>
-          <a href={item.demo}>Demo</a>
-          <a href={item.sourcecode}>Sourcecode</a>
-          <a href={item.video}>Video</a>
+          <a href={item.demo} target="_blank">Demo</a>
+          <a href={item.sourcecode} target="_blank">Sourcecode</a>
+          <a href={item.video} target="_blank">Documentation</a>
         </div>
         <div className='projectTechnology'>
         </div>
