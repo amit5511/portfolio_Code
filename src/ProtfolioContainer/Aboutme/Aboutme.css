@@ -70,7 +70,7 @@
 .profile_info_wrapper{
     display: flex;
     width: 90vmax;
-    max-width: 1000px;
+   
     background-image: url('../../assets/Home/bg.jpg');
     background-size: contain;
     min-height: 540px;

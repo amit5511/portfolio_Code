@@ -8,7 +8,7 @@ color: white;
 box-shadow:0 0  15px gray;
 width:90%;
 margin-top: 30px;
-max-width: 1000px;
+
 }
 
 .certificate_template{
@@ -25,7 +25,7 @@ max-width: 1000px;
     opacity: .8;
 }
 .templateimage{
-    width: 30%;
+    width: 20%;
     min-width: 350px;
     margin: 20px 20px;
   

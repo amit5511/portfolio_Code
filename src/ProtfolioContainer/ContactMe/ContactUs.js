@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './ContactUs.css'
 import emailjs from 'emailjs-com';
 import { ToastContainer, toast } from 'react-toastify';
- 
+ import Contact_Us from '../../assets/Home/Contact_Us.jpg'
 const ContactUs = () => {
     const notify = () => toast.success('Thankyou,We will connect you as soon as possible.', {
         position: "top-right",
@@ -66,15 +66,14 @@ const ContactUs = () => {
         </div>
 
         <div className='contact_form' id="contactusid" data-aos="flip-left">
+           
             <form onSubmit={submitForm} id="myform">
                 <label>Name</label><br />
                 <input name='name' type="text" placeholder='Entre Your Name *' required minLength='4' maxLength="30" /><br />
                 <label>Email</label><br />
                 <input name='email'  type="email" required minLength='5' maxLength="30" placeholder='Entre Your Email *' /><br />
-{/* 
-                <label>Phone No.</label><br />
-                <input name='phone' type="text" min="10"  max='10'placeholder='Entre Your Phone Number' /><br /> */}
-
+ 
+                
                 <label>Message</label><br />
                 <textarea name='message' required maxLength="100" placeholder='Hi Amit ,' >Hi Amit,</textarea><br />
                 <button disabled={isDisabled} className='btn highlighted-btn contactbtn' type='submit'>Send</button>

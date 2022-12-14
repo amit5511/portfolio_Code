@@ -14,10 +14,7 @@ const Profile = () => {
               <i className='fa fa-facebook-square'></i>
 
             </a>
-            <a href='https://www.linkedin.com/in/amit-verma-b3450b1b4/' target="_blank">
-              <i className='fa fa-goole-plus-square'></i>
-
-            </a>
+           
             <a href='https://www.linkedin.com/in/amit-verma-b3450b1b4/' target="_blank">
               <i className='fa fa-instagram'></i>
 
@@ -37,7 +34,7 @@ const Profile = () => {
           <div className='profile-details-name'>
             <span className='primart-text'>
               {" "}
-              Hello, I'M <span className='highlighted-text'>Amit</span>
+              Hello, I'm <span className='highlighted-text'>Amit</span>
             </span>
           </div>
           <div className='profile-details-role'>

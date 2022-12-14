@@ -15,8 +15,7 @@ const Aboutme = () => {
 
                 </div>
             </div>
-            <div className='about_picture_and_info' data-aos="fade-up"
-                data-aos-anchor-placement="top-center">
+            <div className='about_picture_and_info'>
                 <div className='profile_info_wrapper'>
                     <div className='profile_picture'>
 

@@ -16,7 +16,7 @@
     box-shadow:0 0  15px gray;
     width:90%;
     margin-top: 30px;
-    max-width: 1000px;
+   
    
 
 }
@@ -30,11 +30,13 @@
     flex-wrap: wrap;
     text-align: center;
     justify-content: space-evenly;
+  
     
 }
 .technical_text>div{
     text-align: center;
-    width: 30%;
+    width: 20%;
+    margin-left: 3rem;
     min-width: 300px;
 }
 .datast_text_technical>div{

@@ -12,7 +12,7 @@ const Educaction = () => {
 
       </div>
     </div>
-    <div className='education_text' data-aos="fade-left">
+    <div className='education_text' data-aos="fade-right">
       <div className='graduation'>
         <div className='datast_text_technical transform_effect'>
           <span className='post'>Graduation
