@@ -22,8 +22,9 @@ const ImportantLink = () => {
                 data-aos-anchor-placement="top-center">
 
       <div><a href='https://www.linkedin.com/in/amit-verma-b3450b1b4/' target="_blank"><img style={{ width: '50px', height: '50px' }} src={Linkedin} alt="img" /></a></div>
-      <div><a href='https://github.com/amit5511/' target="_blank"><img style={{ width: '50px', height: '50px' }} src={github} alt="img" /></a></div>
-      <div><a href='https://www.linkedin.com/in/amit-verma-b3450b1b4/' target="_blank"><img style={{ width: '50px', height: '50px' }} src={youtube} alt="img" /></a></div>
+        {/*    <div><a href='' target="_blank"><img style={{ width: '50px', height: '50px' }} src={github} alt="img" /></a></div>*/
+      }
+      <div><a href='https://github.com/amit5511/' target="_blank"><img style={{ width: '50px', height: '50px' }} src={youtube} alt="img" /></a></div>
 
 
 
