@@ -78,7 +78,7 @@ const Profile = () => {
              
             </button>
             </a>
-            <a  href={Resume} download='Resume Amit.pdf' target="_blank" >
+            <a  href={Resume} download='Resume.pdf' target="_blank" >
               <button className='btn highlighted-btn'>Get Resume</button>
              
               
