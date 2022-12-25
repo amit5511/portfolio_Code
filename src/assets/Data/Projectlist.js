@@ -37,8 +37,8 @@ import BestBuy from '../Websiteimage/BestBuy.PNG'
     `,
     certifiedby: 'BestBuy',
     demo:"https://dull-erin-viper-hem.cyclic.app/",
-    sourcecode:'https://github.com/amit5511/Bettermart',
-    video:'https://drive.google.com/file/d/167RS77WJnmWpbTkwNEXVE_zMvvf3TRyp/view?usp=sharing',
+    sourcecode:'https://github.com/amit5511/Bestbuy',
+    video:'https://drive.google.com/file/d/1-GPsv5DSDrZhCerX7dWOhQf0PcNmVgrE/view?usp=sharing',
     tech:'HTML5 | CSS3 | REACT | REDUX | NODE | EXPRESS | MONGODB | STRIPE '
 }
 ,
