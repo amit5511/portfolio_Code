@@ -1,5 +1,5 @@
 
-export const homeTitle=`300+ DSA Questions | CodeChef (2 🌟) | Leetcode (3🌟) | DSA |
+export const homeTitle=`400+ DSA Questions | CodeChef (2 🌟) | Leetcode (3🌟) | DSA |
  Java(core) | Full-stack developer (MERN Developer) | React | Node 
  | Express | Mongodb | SQL | Computer Science Undergraduate (B.Tech CSE)`
 
