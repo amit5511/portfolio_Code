@@ -1,6 +1,16 @@
 import Masai from '../Home/Masai.PNG'
 import Accenture from '../Home/Accenture.PNG'
-export const certificatelist = [{
+import Tata from '../Home/Tata.PNG'
+export const certificatelist = [
+    {
+    url: Tata,
+    text: `TCS MasterCraft™ DataPlus Privacy Edition provides various data privacy enabling technologies such as ML-based sensitive data element
+    discovery, data subsetting, static data masking, data pseudonymization, unstructured data redaction and dynamic data masking.`,
+    certifiedby: 'Tata Consultancy Services',
+    link:'https://drive.google.com/file/d/1aTAniEfdpq4mkDYlPl5e7xmwaicUBKCH/view?usp=sharing',
+    title:'TCS MasterCraft DataPlus'
+}
+    ,{
     url: Masai,
     text: `This Masai-101 course will teach you about basics of HTML and CSS. At the end of this course you will be able to create your own web apps.`,
     certifiedby: 'Masai School',
