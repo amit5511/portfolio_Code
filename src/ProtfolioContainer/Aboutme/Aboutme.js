@@ -27,7 +27,7 @@ const Aboutme = () => {
                             <p>Here are a Few Highlights:</p>
                             <div className='about_text'>
                                 <div className='bulletpoint'></div>
-                                <span>Solve 300+ DSA Questions</span>
+                                <span>Solve 400+ DSA Questions</span>
 
                             </div>
                             <div className='about_text'>
@@ -47,7 +47,7 @@ const Aboutme = () => {
                             </div>
                             <div className='about_text'>
                                 <div className='bulletpoint'></div>
-                                <span>Redux for State Mnanagement</span>
+                                <span>Redux for State Management</span>
 
                             </div>
                             <div className='about_text'>
